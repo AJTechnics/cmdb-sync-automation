@@ -1,0 +1,8 @@
+cmdb:
+  url: "https://cmdb.example.com"
+  token: "YOUR_API_TOKEN"
+
+sharepoint:
+  site: "https://sharepoint.example.com/sites/IT"
+  document_library: "Documents"
+  excel_file: "CMDB_Assets.xlsx"
